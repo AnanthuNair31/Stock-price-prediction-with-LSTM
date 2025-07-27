@@ -1,8 +1,11 @@
-streamlit
-yfinance
-numpy
-pandas
-matplotlib
-scikit-learn
-keras
-tensorflow==2.14.0
+# Compatible with Python 3.11
+
+tensorflow==2.13.0
+streamlit>=1.27.0
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+rich>=13.0.0
+markdown-it-py>=2.2.0
+pygments>=2.13.0
