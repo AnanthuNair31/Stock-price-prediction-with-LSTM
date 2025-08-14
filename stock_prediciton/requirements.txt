@@ -1,9 +1,10 @@
 streamlit
-yfinance==0.2.65
+yfinance==0.2.61
 tensorflow
 numpy
 pandas
 scikit-learn
 matplotlib
+
 
 
